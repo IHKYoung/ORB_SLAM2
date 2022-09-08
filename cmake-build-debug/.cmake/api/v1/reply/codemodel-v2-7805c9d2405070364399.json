@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ORB_SLAM2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ORB_SLAM2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ORB_SLAM2-Debug-cebc205f333cf7907686.json",
+					"name" : "ORB_SLAM2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_euroc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_euroc-Debug-52356ea714e1c025677b.json",
+					"name" : "mono_euroc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_kitti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_kitti-Debug-4a401235cfa6a54c71a8.json",
+					"name" : "mono_kitti",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mono_tum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mono_tum-Debug-b2eade1c3f1b1a244dd2.json",
+					"name" : "mono_tum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rgbd_tum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rgbd_tum-Debug-1acb62b2919b03a8a376.json",
+					"name" : "rgbd_tum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_euroc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_euroc-Debug-4930f1fc7229c09a93ad.json",
+					"name" : "stereo_euroc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stereo_kitti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stereo_kitti-Debug-341f3b230d527a36e10d.json",
+					"name" : "stereo_kitti",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/young/SLAM/ORB_SLAM2/cmake-build-debug",
+		"source" : "/home/young/SLAM/ORB_SLAM2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
